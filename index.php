@@ -10,7 +10,5 @@
          background:pink;
     }
   </style>
-  <?php
- echo "hello";
-   ?>
+
 </html>
