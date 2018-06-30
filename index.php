@@ -10,5 +10,7 @@
          background:pink;
     }
   </style>
-  
+  <?php
+
+   ?>
 </html>
