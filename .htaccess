@@ -24,14 +24,14 @@ DirectoryIndex index.php index.html index2.html
 
 
 
-ErrorDocument 400 http://dsurenportfolio.ml
+# ErrorDocument 400 http://dsurenportfolio.ml
 
-ErrorDocument 401 http://dsurenportfolio.ml
+# ErrorDocument 401 http://dsurenportfolio.ml
 
-ErrorDocument 403 http://dsurenportfolio.ml
+# ErrorDocument 403 http://dsurenportfolio.ml
 
-ErrorDocument 404 http://dsurenportfolio.ml
+# ErrorDocument 404 http://dsurenportfolio.ml
 
-ErrorDocument 500 http://dsurenportfolio.ml
+# ErrorDocument 500 http://dsurenportfolio.ml
 
 ErrorDocument 503 http://dsurenportfolio.ml
